@@ -16,7 +16,7 @@ I used used my knowledge of Python and unsupervised learning to predict if crypt
 
 - Scatter plot for the original data clusters:
 
-![alt text](images/ScatterPlotCluster.PNG)
+![alt text](images/ScatterPlotCluster1.PNG)
 
 - Scatter plot for the PCA data clusters:
 
